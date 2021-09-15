@@ -76,7 +76,15 @@ Youtube貼り付けここまで -->
               []、()の間違い、''の抜けがあると動きません。
             ------------------------------------------------------------------------------------------------------------>
             <answer-input v-bind:correct="correctAnswer['stage1']['q1']" v-on:answer-input="answerInput($event, 'stage1', 1)"></answer-input>
-            
+              <div class="answer__container">
+              <div class="answer">
+                <input type="text" placeholder="ここに答えを入力しよう">
+              </div>
+              <!--v-if-->
+              <button>送信</button>
+              <!--v-if-->
+            </div>
+          
             <a class="link-hint" href="hint1.html" target="hint1">ヒントをみる ></a>
           </div>
         </section>
