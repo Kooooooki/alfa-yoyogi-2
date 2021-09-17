@@ -79,7 +79,7 @@ button {
   border: none;
   margin: 0 auto;
   background-color: #006837;
-  color: #fff;
+  color: #5F5F5F;
   width: 287px;
   height: 55px;
 }
@@ -147,7 +147,7 @@ button {
 }
 
 .card {
-  background-color: #fff;
+  background-color: #5F5F5F;
   margin-bottom: 20px;
   height: 100%;
 }
@@ -288,7 +288,7 @@ button {
 }
 
 .section-title--keycolorlight .section-title__stage {
-  color: #fff;
+  color: #5F5F5F;
 }
 
 .section-title--keycolor {
@@ -316,7 +316,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #fff;
+  background-color: #5F5F5F;
   height: 2.6px;
   width: 190px;
 }
@@ -337,7 +337,7 @@ button {
   text-decoration: none;
   cursor: pointer;
   background-color: #006837;
-  color: #fff;
+  color: #5F5F5F;
   font-size: 24px;
   line-height: 1.54167;
   text-align: center;
@@ -356,7 +356,7 @@ button {
   position: absolute;
   top: calc(50% - 12px);
   right: 15px;
-  fill: #fff;
+  fill: #5F5F5F;
   width: 12px;
   height: 24px;
 }
@@ -365,7 +365,7 @@ button {
 * header
 *****************/
 .header {
-  background-color: #fff;
+  background-color: #5F5F5F;
   height: 60px;
 }
 
@@ -430,7 +430,7 @@ button {
 }
 
 .stage-column__container + .stage-column__container {
-  border-top: 2px solid #fff;
+  border-top: 2px solid #5F5F5F;
 }
 
 .answer {
@@ -474,7 +474,7 @@ button {
   display: block;
   width: 183px;
   height: 2px;
-  background-color: #fff;
+  background-color: #5F5F5F;
   bottom: 0;
   left: calc(50% - (183px/2));
 }
